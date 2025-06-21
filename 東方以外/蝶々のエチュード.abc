@@ -1,0 +1,72 @@
+%Etudes, Op.25-9 in G♭major 'Butterfly'
+%Composed by Chopin Frederic
+
+%「蝶々のエチュード」
+
+%書いた人：メルフェ
+%基本的には書き換えとか再配布とかなんでもOKということで
+
+
+%テンポと音量の調節もしてみたけどどうなんだろうかこれ
+
+
+
+{
+<Q:112><K:Gb><V:80><L:/16><v:90> z24
+B[bg][c'c][=c'=c] d[d'a][e'e][d'd] G[ge][aA][=a=A] B[bf][c'c][bB]
+E[ec][=e=E][fF] G[gd][fF][gG] A[ae][bB][aA] A[af][bB][c'c]
+[bg]B[c'c][=c'=c] d[d'a][e'e][d'd] [ge]G[aA][=a=A] B[bf][c'c][bB]
+[ec]E[=e=E][fF] G[gd][fF][gG] A[ag][bfB][aA] G[gd][fF][gG]
+
+A[af][bB][aA] A[ag][=c'=c][d'd] e[e'a][=d'=d][e'e] =e[=e'a]f[f'a]
+e[e'b][d'd][bB] A[ad][=g=G][aA] B[b=c][aA][gG] =E[=ed]f[fd]
+[fd]F[gG][=g=G] A[ae][bB][=c'=c] [d'=g]d[e'e][=e'=e] =e[=e'a]f[f'a]
+[e'b]e[d'd][bB] A[ad][=g=G][aA] =c[=c'g][bB][aA] d[d'f][=c'=c][d'd]
+
+d[d'b][_f'_f][e'e] d[d'a][c'c][bB] c[c'f][__e'__e][d'd] c[c'g][__b__B][aA]
+G[ge][__b__B][aA] A[ae][=g=G][gG] F[fd][gG][=g=G] A[ad]d[d'a]
+[d''b']d'[_f''_f'][e''e'] [d''a']d'[c''c'][b'b] [c''f']c'[__e''__e'][d''d'] [c''g']c'[__b'__b][a'a]
+<v:95>[g'e']g[__b'__b][a'a] a[a'e'][__a'__a][g'g] <v:100>g[g'c'][f'f][e'e] __e[__e'a][d'd][c'c]
+
+<v:105>B[bg][c'c][=c'=c] d[d'a][e'e][d'd] G[ge][aA][=a=A] B[bf][c'c][bB]
+E[ec][=e=E][fF] G[gd][fF][gG] A[ag][bB][aA] A[af][bB][c'c]
+<Q:113>B[bg][c'c][=c'=c] d[d'a][e'e][d'd] c[c'a][d'd][=d'=d] e[e'b][_f'_f][e'e]
+<Q:114>e[e'c'][=e'=e][f'f] g[g'd'][f'f][g'g] a[a'g'e'][=g'=g][a'a] =a[=a'g'e'][^g'^g][=a'=a]
+<Q:113>_b[_b'g'][c''c'][_b'_b] _b[_b'f'][__b'__b][a'a] a[a'e'][__a'__a][g'g] g[g'__b][f'f][e'e]
+<v:100>[e8]1[e'7a7]1[__e'6__e6]1[d'5d5]1 [d4]1[d'3a3]1[__d'2__d2]1[c'c] <v:95><Q:106>[c8]1[c'7__e7]1<Q:100>[b6B6]1[__b5__B5]1 <Q:94>[__B4]1[__b3=c3]1<Q:88>[A2]1[ad]
+
+<v:90><Q:82>[g4d4G4] <Q:112>A[ad][bB][c'c] d[d'g][e'e][d'd] A[ad][bB][aA]
+D[dB][fF][gG] A[ad][bB][c'c] d[d'g][e'e][d'd] A[ad][bB][aA]
+[g2G2]z2 [a'd']a[b'b][c''c'] [d''g']d'[e''e'][d''d'] [a'd']a[b'b][a'a]
+[d'b]d[f'f][g'g] [a'd']a[b'b][c''c'] [d''g']d'[e''e'][d''d'] [a'd']a[b'b][a'a]
+
+[g8]1[g'8]1[c''8e'8]1[b'8d'8]1 [b8]1[g'8]1[c''8e'8]1[b'8d'8]1 [b8]1[g'8]1[c''8e'8]1[b'8d'8]1 [b8]1[g'8]1[c''8e'8]1[b'8d'8]1 
+[b8]1[g'8]1[c''8e'8]1[b'8d'8]1 [b8]1[g'8]1[c''8e'8]1[b'8d'8]1 [b8]1[g'8]1[c''7e'7]1[b'6d'6]1 [b5]1[g'4]1[c''3e'3]1[b'2d'2]1 
+[g'b]zz2<Q:106>z2<Q:100>z2 <Q:94>z2<Q:88>z2 <Q:82>DG<Q:76>[cE]<Q:70>[BD] <Q:64>[GB,] z16
+
+}
+
+
+{
+<Q:112><K:Gb><V:100><L:/8><v:90> z12
+G,[GDB,]F,[ADA,] E,[EB,G]D,[FB,F] C,[CG,E,]B,,[DG,D,] =C,[EA,G,]D,[FDC]
+G,[GDB,]F,[ADA,] E,[EB,G]D,[FB,F] C,[CG,E,]B,,[DG,D,] [=C,1]/8[G,7/8]/8[E6/8] [D,1]/8[C7/8]/8[F6/8] [B,G,] z
+
+D,[FDA,]=C,[GEA,] A,,[G=CA,]D,[FDA,] =G,,[DB,=E,]A,,[DA,F,] A,,[=CA,E,]D,[DA,F,]
+D,[DA,]=C,[EA,] B,,[=GDB,]A,,[ADA,] [=G,=G,,][BED]A,,[DA,F,] A,,,[=CG,E,]C,,[FDA]
+
+D,[=GB,]D,[AC] D,[FA,]D,[G__B,] D,,[=CE,]D,,[=CE,] D,,[DF,]D,[FA,]
+D,[=GB,]D,[AC] D,[FA,]D,[G__B,] D,,[G=C__B,]D,[G=CA,] D,[GCA,]D,[FCA,]
+
+<v:105>[G,G,,][GDB,][F,F,,][ADA,] [E,E,,][EB,G][D,D,,][FB,F] [C,C,,][CG,E,][B,,B,,,][DG,D,] [=C,=C,,][EA,G,][D,D,,][FCA,]
+<Q:113>[G,G,,][GDB,][F,F,,][ADA,] [A,A,,][AEC][=G,=G,,][BEB,] <Q:114>[CC,][cGE][B,B,,][dGD] [CC,][eG]z[=C,=C,,]
+<Q:113>[D,D,,][GB,][=D,=D,,][FB,] [E,E,,][GB,][=C,=C,,][GE__B] <v:100>[D,4D,,4]1[G3D3A,3]1z2 <v:100><Q:106>[D,,4D,,,4]1<Q:100>[F3C3A,3]1<Q:94>z<Q:88>z
+
+<v:90><Q:82>G,,,D,<Q:112>[CF,]G,, [B,G,D,]G,,[CF,D,]G,, [B,G,D,]G,,[CF,D,]G,, [B,G,D,]G,,[CF,D,]G,,
+[B,G,D,]G,,[CF,D,]G,, [B,G,D,]G,,[CF,D,]G,, [B,G,D,]G,,[CF,D,]G,, [B,G,D,]G,,[CF,D,]G,,
+
+[B,8G,8D,8]1[G,,,8]1[D,8]1[D8G,8]1 [G8B,8]1[B8D8]1[d8G8]1[g8B8]1 [d8G8]1[B8D8]1[G7G,7]1[D6D,6]1 [G,5G,,5]1[D,4D,,4]1[G,,3G,,,3]1[D,,2D,,,2]1
+[G,,G,,,][D,,D,,,]<Q:106>[G,,G,,,]<Q:100>[D,,D,,,]<Q:94>[G,,G,,,]<Q:88>[D,,D,,,]<Q:82>[G,,G,,,]<Q:76>[D,D,,]/2<Q:70>z/2<Q:64>[G,G,,]
+
+
+}

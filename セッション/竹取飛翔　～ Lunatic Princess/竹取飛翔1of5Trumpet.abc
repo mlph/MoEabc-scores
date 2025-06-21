@@ -1,0 +1,274 @@
+%竹取飛翔　～ Lunatic Princess
+%Composed by 上海アリス幻樂団
+%『東方永夜抄　～ Imperishable Night.』より6面Bステージボス 蓬莱山輝夜のテーマ
+
+%セッション用 volume 1 of the 5
+%このパートはトランペット/ミュートトランペット用です
+%edited by メルフェ
+
+
+%東方Projectの二次創作のガイドラインにのっとった範囲で
+%使用、再配布、改変は自由に行っていただいて構いません。
+%ただし、著作者(上海アリス幻樂団、私、改変された場合はその改変者)を偽って表示したり、
+%このファイル内から削除したりしないで下さい。
+
+
+
+ver.18.07.25
+
+
+%なんとなくミュートトランペットを混ぜる
+%なぜ混ぜたかというと他のパートはドラムだったりペット想定だったりで混ぜられないからである(
+
+{z2
+<L:/1><Q:128><V:100><v:120><K:Fm><C:60>
+
+
+%イントロA
+
+
+z/2
+zzz<Q:131>z <Q:134>z<Q:138>z<Q:141>z<Q:145>z
+
+
+%イントロD
+
+
+<Q:152>zzzz <Q:154>zzz
+<L:/8>z6
+
+
+%A
+
+
+FA
+
+B4G4 E3FF2FA
+B2BcecBc f2c'2g2fa
+b4g4 e3ff2fa
+b2bc'e'c'bc' f'6FA
+
+B4G4 E3FF2FA
+B2BcecBc f2c'2g2fa
+b4g4 e3ff2fa
+b2bc'e'c'bc' [f'24]4a2g2
+
+
+% --
+a16
+
+
+%B
+
+
+<C:57>
+z8z8z8z8
+z8z8z8z8
+
+fceBcABG
+fceBcABG
+fceBcAga-
+acgBfAeG
+
+fceBcABG
+fceBcABG
+f12
+f3/2f3/2f
+
+
+% --
+<Q:149>
+zzzz
+
+
+
+%C
+
+
+<K:Bbm>
+z8z8z8z8
+z8z8z8z8
+
+<C:57><L:/16><Q:152>
+f4B4f4B4
+B2e2f2a2f2e2B4
+f4B4f4B2a2
+b4a2efcefAcdF2
+f4B4f4B4
+B2e2f2a2f2e2B4
+f4B4f4B2a2
+b16
+
+b4f4b4f4
+c'3d'3e'2d'2c'2a4
+z16
+z16
+b4f4b4f4
+f2c'2d'2e'2d'2c'2a4
+z16
+z8d'8
+
+
+%C'
+
+
+<K:Bm>
+b4f4b4f4
+c'3d'3e'2d'2c'2a4
+z16
+z16
+b4f4b4f4
+f2c'2d'2e'2d'2c'2a4
+z16
+z8d'8
+
+b4f4b4f4
+c'3d'3e'2d'2c'2a4
+b4f4b4f2c'2
+d'2f2c'2fbdadBefa2
+b4f4b4f4
+f2c'2d'2e'2d'2c'2a4
+b4f4b4f2a2
+b16-
+
+
+
+%D
+
+
+<Q:154><K:G#m>
+=b60
+_b/2.=a/2..._a/2....=g/2......_g/2.......=f/2.........=e/2.........._e/2............
+<K:Fm>
+<L:/1>
+zzzz
+
+
+zzzz zzzz
+
+
+% --
+<Q:141>
+z/2
+
+
+%C2
+zz/2<Q:137>z/2<Q:131>z/2<Q:123>z3/8<Q:70>z/8<Q:110>z<Q:90>
+
+
+
+}
+
+
+% ----------- %
+
+
+{z2
+<L:/1><Q:128><V:100><v:90><K:C#m><C:60>
+
+%イントロA
+z/2
+
+zzz<Q:131>z <Q:134>z<Q:138>z<Q:141>z<Q:145>z
+
+%イントロD
+<Q:152>zzzz <Q:154>zzzz
+
+%A
+zzzz zzzz
+zzzz zzzz
+
+% --
+zz
+
+%B
+zzzz zzzz
+zzzz zzzz
+
+
+% --
+<Q:149>
+z/2
+
+
+%C
+
+
+<C:60><K:Bbm><L:/16>
+f'4b3zf'4b3z
+b2e'2f'2a'2f'2e'2b3z
+f'4b3zf'4b2a'2
+b'2f'2a'2e'f'c'e'f'ac'd'f2
+f'4b3zf'4b3z
+b2e'2f'2a'2f'2e'2b3z
+f'4b3zf'4b2a'2
+b'16
+
+<C:57><v:70><Q:152>
+f'4b3zf'4b3z
+b2e'2f'2a'2f'2e'2b3z
+f'4b3zf'4b2a'2
+b'4a'2e'f'c'e'f'ac'd'f2
+f'4b3zf'4b3z
+b2e'2f'2a'2f'2e'2b3z
+f'4b3zf'4b2a'2
+b'16
+
+b'4f'3zb'4f'3z
+c''3d''3e''2d''2c''2a'3z
+z16
+z16
+b'4f'3zb'4f'3z
+f'2c''2d''2e''2d''2c''2a'3z
+z16
+[b16b'16]8d''8
+
+
+%C'
+
+
+<K:Bm>
+b'4f'3zb'4f'3z
+c''3d''3e''2d''2c''2a'3z
+z16
+z16
+b'4f'3zb'4f'3z
+f'2c''2d''2e''2d''2c''2a'3z
+z16
+[b16b'16]8d''8
+
+b'4f'3zb'4f'3z
+c''3d''3e''2d''2c''2a'3z
+b'4f'3zb'4f'2c''2
+d''2f'2c''2f'b'd'a'd'be'f'a'2
+b'4f'3zb'4f'3z
+f'2c''2d''2e''2d''2c''2a'3z
+b'4f'3zb'4f'2a'2
+b'16-
+
+
+
+%D
+
+
+<Q:154><K:G#m>
+=b'60zzzz
+
+<K:Fm>
+<L:/1>
+zzzz
+
+
+zzzz zzzz
+
+
+% --
+<Q:141>
+z/2
+
+
+%C2
+zz/2<Q:137>z/2<Q:131>z/2<Q:123>z3/8<Q:70>z/8<Q:110>z<Q:90>
+
+
+}

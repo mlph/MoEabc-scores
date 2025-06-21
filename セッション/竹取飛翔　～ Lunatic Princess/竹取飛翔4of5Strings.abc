@@ -1,0 +1,297 @@
+%竹取飛翔　～ Lunatic Princess
+%Composed by 上海アリス幻樂団
+%『東方永夜抄　～ Imperishable Night.』より6面Bステージボス 蓬莱山輝夜のテーマ
+
+%セッション用 volume 4 of the 5
+%このパートはストリングアンサンブル用です
+%edited by メルフェ
+
+
+%東方Projectの二次創作のガイドラインにのっとった範囲で
+%使用、再配布、改変は自由に行っていただいて構いません。
+%ただし、著作者(上海アリス幻樂団、私、改変された場合はその改変者)を偽って表示したり、
+%このファイル内から削除したりしないで下さい。
+
+
+
+ver.18.07.25
+
+
+%つまらないピアノやトランペットに、ストアンを混ぜるだけでちょっと豪華に!
+
+{z2
+<L:/8><Q:128><V:100><v:80><K:Fm><C:49>
+
+
+%イントロA
+
+
+F2A2
+
+B4G4 E3FF2FA
+B2BcecBc <Q:131>f2c'2g2fa
+<Q:134>b4g4 <Q:138>e3ff2fa
+<Q:141>b2bc'e'c'bc' <Q:145>[f'24]4a2g2
+
+
+%イントロD
+
+<Q:152>
+a16z16
+<Q:154>
+z16z14
+
+
+%A
+
+
+FA
+
+B4G4 E3FF2FA
+B2BcecBc f2c'2g2fa
+b4g4 e3ff2fa
+b2bc'e'c'bc' f'6FA
+
+B4G4 E3FF2FA
+B2BcecBc f2c'2g2fa
+b4g4 e3ff2fa
+b2bc'e'c'bc' [f'24]4a2g2
+
+
+% --
+a16
+
+
+%B
+
+
+FCEB,CA,B,G,
+FCEB,CA,B,G,
+FCEB,CA,GA-
+ACGB,FA,EG,
+
+FCEB,CA,B,G,
+FCEB,CA,B,G,
+FCEB,CA,GA-
+ACBGACGB,
+
+[Ff][Cc][Ee][B,B][Cc][A,A][B,B][G,G]
+[Ff][Cc][Ee][B,B][Cc][A,A][B,B][G,G]
+[Ff][Cc][Ee][B,B][Cc][A,A][Gg][A-a-]
+[Aa][Cc][Gg][B,B][Ff][A,A][Ee][G,G]
+
+[Ff][Cc][Ee][B,B][Cc][A,A][B,B][G,G]
+[Ff][Cc][Ee][B,B][Cc][A,A][B,B][G,G]
+[F12f12]
+[F3/2f3/2][F3/2f3/2][Ff]
+
+
+% --
+<Q:149>zzzz
+
+
+%C
+
+
+<v:100><L:/16>
+f4B4f4B4
+B2e2f2a2f2e2B4
+f4B4f4B2a2
+b2f2a2efcefAcdF2
+f4B4f4B4
+B2e2f2a2f2e2B4
+f4B4f4B2a2
+b16
+
+<Q:152>
+f4B4f4B4
+B2e2f2a2f2e2B4
+f4B4f4B2a2
+b2f2a2efcefAcdF2
+f4B4f4B4
+B2e2f2a2f2e2B4
+f4B4f4B2a2
+b16
+
+
+[F32....b4]f4b4f4
+c'3d'3e'2d'2c'2a4
+z16
+z16
+[F32....b4]f4b4f4
+f2c'2d'2e'2d'2c'2a4
+z16
+[b16....]8d'8
+
+
+%C'
+
+
+<K:Bm>
+[F32....b4]f4b4f4
+c'3d'3e'2d'2c'2a4
+z16
+z16
+[F32....b4]f4b4f4
+f2c'2d'2e'2d'2c'2a4
+z16
+[b16....]8d'8
+
+[F32....b4]f4b4f4
+c'3d'3e'2d'2c'2a4
+[F32....b4]f4b4f2c'2
+d'2f2c'2fbdadBefa2
+[F32....b4]f4b4f4
+f2c'2d'2e'2d'2c'2a4
+[F32....b4]f4b4f2a2
+[b76]16
+
+
+%D2
+
+
+<Q:154><K:G#m><v:80>
+g60
+_b/2.=a/2.._a/2...=g/2...._g/2.....=f/2......=e/2......._e/2........
+z16z16z16z16
+
+<K:Fm>
+z16z16z16z16
+z16z16z16z16
+
+% --
+<Q:141>
+z8
+
+
+%C2
+
+
+<v:100><L:/16><K:G#m>
+d4G4d4G4
+G2c2d2f2<Q:137>d2c2G4
+<Q:131>d4G4<Q:123>d4G2<Q:70>f2
+<Q:110>g16-<Q:90>g12
+
+
+}
+
+
+% ----------- %
+
+
+{z2
+<L:/2><Q:128><V:100><v:90><K:Fm><C:49>
+
+
+%イントロA
+
+
+z
+
+DE CD B,C <Q:131>D=E
+<Q:134>DE <Q:138>CD <Q:141>B,C <Q:145>DE
+
+
+%イントロD
+
+
+<v:80><Q:152>
+CD__EDCD__ED
+<Q:154>
+CD__EDCD__ED
+
+
+%A
+
+
+<v:90>
+DE CD B,C D=E
+DE CD B,C DE
+
+<L:/4>
+DDE2 CCD2 B,B,C2 DD=E2
+DDE2 CCD2 B,B,C2 DDE2
+
+
+% --
+F8
+
+
+%B
+
+
+<v:80><L:/1>
+F,E,D,D,
+F,E,=D,=D,
+D,E,F,F,
+D,E,F,3/2F,3/16F,3/16F,2/16
+
+
+% --
+<Q:149><L:/4>
+z2
+
+
+%C
+
+
+<K:Bbm>
+G,2A,2 B,3A,
+G,2A,2 B,3A,
+G,2A,2 B,3A,
+G,2A,2 B,3A,
+
+<Q:152>
+G,2A,2 B,3A,
+G,2A,2 B,3A,
+G,2A,2 B,3A,
+G,2A,2 B,3A,
+
+G,2A,2 B,3A,
+G,2A,2 B,3A,
+G,2A,2 B,3A,
+G,2A,2 B,3A,
+
+
+%C'
+
+
+<K:Bm>
+G,2A,2 B,3A,
+G,2A,2 B,3A,
+G,2A,2 B,3A,
+G,2A,2 B,3A,
+
+G,2A,2 B,3A,
+G,2A,2 B,3A,
+G,2A,2 B,3A,
+G,2A,2 B,3A,
+
+
+%D2
+
+
+<Q:154><K:G#m><L:/2>
+DE=FEDE=FE
+DE=FEDE=FE
+
+<v:80><K:Fm>
+CD__EDCD__ED
+CD__EDCD__ED
+
+
+% --
+<Q:141>
+z
+
+
+%C2
+
+
+<K:G#m><v:80><L:/4>
+E,2F,2 G,2-<Q:137>G,F,
+<Q:131>E,2<Q:123>[F,7/4-]3/2<Q:70>F,/2
+<Q:110>G,4-<Q:90>G,3
+
+}

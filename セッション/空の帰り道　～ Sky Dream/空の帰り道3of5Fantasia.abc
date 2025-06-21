@@ -1,0 +1,100 @@
+%空の帰り道　? Sky Dream
+%Composed by 上海アリス幻樂団
+%『東方星蓮船　? Undefined Fantastic Object.』よりスタッフロールのテーマ
+
+%セッション用 part 3 of the 5
+%このパートはファンタジア用です
+%edited by メルフェ
+
+
+%東方Projectの二次創作のガイドラインにのっとった範囲で
+%使用、再配布、改変は自由に行っていただいて構いません。
+%ただし、著作者(上海アリス幻樂団、私、改変された場合はその改変者)を偽って表示したり、
+%このファイル内から削除したりしないで下さい。
+
+
+%ver:16.07.01
+
+%ファンタジアって何なんでしょシンセパッドって何者なんでしょ
+
+
+{z2
+<L:1><Q:140><V:110><v:90><K:Dm><C:89>
+z4z4z4z4
+
+<L:/8>
+G3G5 G3G5
+G3G3A3 zF4D2
+G3G5 G3G5
+A3c5 f2e2d2c2
+
+d3d4 d4d5
+f3e5 z8
+d3d4 d4d5
+A3A5 D8
+
+
+G3G5 G3G5
+G3G3A3 zF4D2
+G3G5 G3G5
+A3c5 f2e2d2c2
+
+d3d4 d4d5
+f3e5 z8
+d3d4 d4d5
+A3A5 D8
+
+<v:80>
+G3G5 G3G5
+G3G3A3 zF4D2
+G3G5 G3G5
+A3c5 f3e2d2c
+
+d3d4 d4d5
+d3d5 z8
+d3d4 d4d5
+d3A5 F8
+z
+
+}
+
+
+{z2
+<L:1><Q:140><V:110><v:70><K:Dm><C:89>
+z4z4z4z4
+
+<L:/8>
+E3E5 E3E5
+E3E3F3 zD4A,2
+E3E5 E3[E5]9/2E/4G/4
+[E3]5/2E/4A/4G5 d2c2A2A2
+
+A3A4 A4[A5e5]
+A3c5 f2e2c2A2
+A3A4 A4[A5e5]
+[f3d3][F5C5] [F8A,8]
+
+
+E3E5 E3E5
+E3E3F3 zD4A,2
+E3E5 E3[E5]9/2E/4G/4
+[E3]5/2E/4A/4G5 d2c2A2A2
+
+A3A4 A4[A5e5]
+A3c5 f2e2c2A2
+A3A4 A4[A5e5]
+[f3d3][F5C5] [F8A,8]
+
+<v:60>
+E3E5 E3E5
+E3E3F3 zD4A,2
+E3E5 E3[E5]9/2E/4G/4
+[E3]5/2E/4A/4G5 d3c2A2A
+
+A3A4 A4A5
+A3A5 f2e2c2G2
+A3A4 A4A5
+A3F5 D8
+z
+
+}

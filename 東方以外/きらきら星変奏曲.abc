@@ -1,0 +1,40 @@
+%きらきら星変奏曲 0～2
+%楽譜そのままのはず
+
+<V:100>
+
+{<Q:120><L:/4><v:100>    %テーマ
+ccggaagg | ffeedd3/4e/4c3/2z/2
+ggffeedd | ggffe2/3f/9e/9d/9e3/4f/4ed/2z/2
+ccggaagg | ffeed2/3e/9d/9c/9d3/4e/4c3/2z/2
+<L:/16>    %その1
+dcBcBcBc | ag^fg^fg^fg | ^gac'ad'c'ba | age'd'c'bag- 
+gfd'c'bagf- | fec'bagfe | d2a2g2B2 | c6z2
+ag^fg^fgag | gfefefgf | fe^de^defe | ed^cd^cded
+ag^fge'c'ag | gfefd'bgf |fe^dec'gfe |g3ed3z
+dcBcBcBc | ag^fg^fg^fg | ^gac'ad'c'ba | age'd'c'bag- 
+gfd'c'bagf- | fec'bagfe | d2a2g2B2 | c6z2
+<L:/4>    %その2
+cc[gc][g-c6]1[a-g][a-f-][g-f][g-e-] | [fe][fdG][edG][ecA][dcA][dBG3/4]F/4[cGE]z
+[gc][gc][fc][fB][e3/4c3/4]d/4[e3/4c3/4]f/4[ec2]1d
+[gc][gc][fc][fB][e3/4G3/4]d/4[e3/4G3/4]f/4[eG2]1d
+[cGE]c/8d/8c/8d/8c/8d/16c/16B/8c/8g[g-c-][agc][af-c-][gfc][ge-_B]
+[^feA][fd-_A][edG][ecA][dcA][dBG3/4]F/4[cGE]z
+}
+
+{<Q:120><L:/4><v:100>
+C,CECFCEC | DB,CA,F,G,C,2
+EG,DG,CG,B,G, | EG,DG,CC3/4D/4[CG,2]1B,
+C,CECFCEC | DB,CA,F,G,C,2
+
+C,CECFC[EC]z3/4^C/4 | Dz3/4B,/4Cz3/4A,/4 F,G,CC,
+EG,DG,CG,FG, | [E2G,2]2[D2G,2]2[CG,]z3/4C/4 [E3/4G,2]3/4C/4B,
+C,CECFC[EC]z3/4^C/4 | Dz3/4B,/4Cz3/4A,/4 F,G,CC,
+<L:/16>
+C,CB,CDCB,C | E,CB,CDCB,C | F,CB,CDCB,C | C,CB,CDCB,C
+A,,A,^G,A,B,,B,^A,B, | C,CB,CA,,A,^G,A, | F,,F,E,F,G,,G,^F,G, | C,,4C,4
+G,E^DEFE^DE | G,D^CDED^CD | G,G^FGAG^FG | G,FEFGFEF
+G,E^DEFE^DE | G,D^CDED^CD | G,CB,CDCB,C | G,B,^A,B,CB,^A,B,
+C,CB,CDCB,C | E,CB,CDCB,C | F,CB,CDCB,C | C,CB,C^C,^CB,^C
+D,D^CDB,,B,^A,B, | C,CB,CA,,A,^G,A, | F,,F,E,F,G,,G,^F,G, | C,,4C,4
+}

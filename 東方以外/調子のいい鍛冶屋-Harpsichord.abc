@@ -1,0 +1,323 @@
+%Suite No.5 in E major, HWV 430, for Harpsichord - IV. Air mit 5 variationen "The Harmonious Blacksmith"
+%Composed by  Handel, George Frideric
+
+%ハープシコード組曲第5番  HWV 430  より 第4楽章　「アリアと5つの変奏」　”調子のいい鍛冶屋” 
+
+
+%打ち込んだひと : メルフェ
+%楽譜 -
+%	http://imslp.org/wiki/Suite_in_E_major,_HWV_430_%28Handel,_George_Frideric%29
+%	ここらへんのどれか！
+
+%ハープシコード用に編曲
+%というかまあ、テンポ調整しただけ　楽譜には速度記号全くついてなかったし
+
+
+%音量調整の必要がないって楽でいいね！
+
+
+{
+z4
+<L:/4><Q:95><V:100><v:100><C:7><K:E>
+
+z2
+%-------------------
+%  Air
+%-------------------
+<Q:115>
+[EB,]GF[BD][GB,]F/2E/2 [FB,]B
+[G3/2E][c]/2E/2DB/2D/2C^A [B2F2D2]
+
+[EB,]GF[BD][GB,]F/2E/2 [FB,]B
+[G3/2E][c]/2E/2DB/2D/2C^A [B2F2D2]
+
+<L:/8>
+[B2E2][G2e]B[E4c2]B2GB[G2e]B [E4c2]B2
+GB[Be]d[E4d]ccB[D2B]A[E2G/2]A/2B [D4F/4]G/4F7/2
+
+B2E2F2E2BGFE FDE2
+B2[B,2E]F[A,2D]A[E2B,2G]F[E2B,2G2][D2A,2F]E [B,4G,4E4]
+
+[B2E2][G2e]B[E4c2]B2GB[G2e]B [E4c2]B2
+GB[Be]d[E4d]ccB[D2B]A[E2G/2]A/2B [D4F/4]G/4F7/2
+
+B2E2F2E2BGFE FDE2
+B2[B,2E]F[A,2D]A<Q:110>[E2B,2G]F<Q:105>[E2B,2G2]<Q:100>[D2A,2F]E <Q:80>[B,4G,4E4]
+z2
+%-------------------
+%  Variation 1
+%-------------------ksk
+<Q:135>
+EB,GB,FB,BB,GB,EB, FB,BB,
+GEcEDcBDCEB^A [B4F4D4]
+
+EB,GB,FB,BB,GB,EB, FB,BB,
+GEcEDcBDCEB^A [B4F4D4]
+
+
+EB[G2e]BcEAEBEeE cEAE
+BEeEcEBEADEG FB,DB,
+
+BEGecEAdBEGe cEAd
+BEGeAD[E2G]F[G2E2]1[B,2]1[F2D2]1[A,] [E4B,4G,4]
+
+EB[G2e]BcEAEBEeE cEAE
+BEeEcEBEADEG FB,DB,
+
+BEGecEAdBEGe cEAd
+BEGeAD[E2G]F[G2E2]1[B,2]1[F2D2]1[A,] [E4B,4G,4]
+%-------------------
+%  Variation 2
+%-------------------
+<L:/4>
+%[B2-E]G[B2F]A[B2-G]E [B2F]A
+%[B2G]E[B2-F]D[BC2]1^A [B2F2D2]
+[B4E]GFA[B4G]E FA
+[B2G]E[B3F]D[C2]1^A [B2F2D2]
+
+%[B2-E]G[B2F]D[B2-E]G [B2F]D
+%[B2E]G[B2-F]D[BC2]1^A [B2F2D2]
+[B4E]GFD[B4E]G FD
+[B2E]G[B3F]D[C2]1^A [B2F2D2]
+
+
+[e2G]BAc/8d/8c3/4B[eG] Ac
+B[eG]cBA[GE] [F2D2]
+
+BEcEBE cE
+BED/2A/2G/2F/2[GE][DF/2]E/2 [E2B,2G,2]
+
+[e2G]BAc/8d/8c3/4B[eG] Ac
+B[eG]cBA[GE] [F2D2]
+
+BEcEBE cE
+BED/2A/2G/2F/2[GE][DF/2]E/2 [E2B,2G,2]
+%-------------------
+%  Variation 3
+%-------------------ksksk
+<L:/8><Q:145>
+(3GAB(3EFG(3DEF(3B,BA(3GAB(3EFG (3DEF(3B,BA
+(3G^AB(3cde(3FG^A(3Bcd(3cdc(3FB^A (3BFD(3B,BA
+
+(3GAB(3EFG(3DEF(3B,BA(3GAB(3EFG (3DEF(3B,BA
+(3G^AB(3cde(3FG^A(3Bcd(3cdc(3FB^A (3BFD(3B,BA
+
+
+(3GAB(3Eed(3cde(3ABc(3GAB(3Eed (3cde(3ABc
+(3Bcd(3efg(3ABc(3BcA(3GAG(3FGE (3DFE(3DEF
+
+(3B,CD(3EFG(3CDE(3FGA(3DEF(3GAB (3EFG(3ABc
+(3def(3AGF(3edc(3BAG(3FGE(3B,ED (3EB,G,(3E,BA
+
+(3GAB(3Eed(3cde(3ABc(3GAB(3Eed (3cde(3ABc
+(3Bcd(3efg(3ABc(3BcA(3GAG(3FGE (3DFE(3DEF
+
+(3B,CD(3EFG(3CDE(3FGA(3DEF(3GAB (3EFG(3ABc
+(3def(3AGF(3edc(3BAG(3FGE(3B,ED (3EB,G,zz
+%-------------------
+%  Variation 4
+%-------------------
+<L:/4>
+%このタイ記号 楽譜通りに使ったら正常に動作しないじゃないですかーやだー
+%というわけでタイ記号を使ったより楽譜に忠実な記述を残すのも億劫になってきた（
+[B3E]GF[B4D]EG F[B2D]
+E[e2G](3^ABc/2[dF2/3]B/3-[c2B]^A [B2]1D
+
+%
+%
+[B3E]GF[B4D]EG F[B2D]
+E[e2G](3^ABc/2[dF2/3]B/3-[c2B]^A [B2]1D
+
+%
+%
+[BE][eG][c2E][A2]1[B3]1[eG] [c2E][A2]1
+[B2]1[eG][cE][A2F2]1[B,2]1[E2G] [F2B,2]1D
+
+%
+%
+[B3E]GC[F2A]D[B2G] E[A4]1
+fd/8e/8d3/4<L:/8>Bd[eG][AF][G2E2][FD]E [E4B,4G,4]<L:/4>
+
+%
+%
+[BE][eG][c2E][A2]1[B3]1[eG] [c2E][A2]1
+[B2]1[eG][cE][A2F2]1[B,2]1[E2G] [F2B,2]1D
+
+%
+%
+[B3E]GC[F2A]D[B2G] E[A4]1
+fd/8e/8d3/4<L:/8>Bd[eG][AF][G2E2][FD]E [E4B,4G,4]
+%-------------------
+%  Variation 5
+%-------------------ksksksk
+<L:/16><Q:160>
+BAGFEDCB,BAGFEDCB,[B8G8E8] [B8F8D8]
+B,2CDEFG^AB^AGFEDCB,C2E2B2^A2 [B8F8D8]
+
+BAGFEDCB,BAGFEDCB,[B8G8E8] [B8F8D8]
+B,2CDEFG^AB^AGFEDCB,C2E2B2^A2 [B8F8D8]
+
+
+edcBAGFEedcBAGFEedcBAGFE edcBAGFE
+edcBAGFEA2C2D2B2G2B,2E2A2 [F8D6]C2
+
+B,CDEFGABCDEFGABcDEFGABcd e2dcBAGF
+EGBAGFEDC2E2A2G2G2F2E2D2 [E8B,8G,8]
+
+EFGABcde[E8c4]A4EFGABcde [E8c4]A4
+EFGABcdec2E2B2E2A2D2E2G2 F2B,2D2F2
+
+BAGFEDCB,cBAGFEDCdcBAGFED edcBAGFE
+<Q:60>b<Q:140>agfedcBAGFEDCB,A,<Q:110>G,2E2<Q:80>F,2D2 <Q:30>[E8B,8G8]
+
+}
+
+
+
+{
+z4
+<L:/4><Q:95><V:100><v:100><C:7><K:E>
+E,,2
+%-------------------
+%  Air
+%-------------------
+<Q:115>
+[G,2E,2][B,D,][F,B,,][E,2]1G, [F,2E,]D,
+E,E,,F,G,E,F, B,,2
+
+[G,2E,2][B,D,][F,B,,][E,2]1G, [F,2E,]D,
+E,E,,F,G,E,F, B,,2
+
+
+[B,2G,]E,A,[B,G,]z[B,E,] A,[B,-G,]
+[B,E,][B,G,]A,[B,G,]F,[B,E,] [B,2F,2B,,]A,,
+
+G,,[B,G,][CA,][B,G,]z[B,G,] [CA,][B,G,]
+z[G,E,G,,][F,D,F,,][E,E,,]B,,B,,, [E,2E,,2]
+
+[B,2G,]E,A,[B,G,]z[B,E,] A,[B,-G,]
+[B,E,][B,G,]A,[B,G,]F,[B,E,] [B,2F,2B,,]A,,
+
+G,,[B,G,][CA,][B,G,]z[B,G,] [CA,][B,G,]
+z[G,E,G,,][F,D,F,,]<Q:110>[E,E,,]<Q:105>B,,<Q:100>B,,, <Q:80>[E,2E,,2]
+z
+%-------------------
+%  Variation 1
+%-------------------
+<Q:135>
+%E,,[G,E,-][B,,4-F,E,]D,[E,2-]1G, [F,2B,,2E,]D,
+E,,[G,E,2]1[B,,6F,]D,[E,3]1G, [F,2]1D,
+[E,2]1G,F,G,E,F, B,,/2F,/2B,/2F,/2
+
+%E,,[G,E,-][B,,4-F,E,]D,[E,2-]1G, [F,2B,,2E,]D,
+E,,[G,E,2]1[B,,6F,]D,[E,3]1G, [F,2]1D,
+[E,2]1G,F,G,E,F, B,,/2F,/2B,/2F,/2
+
+
+%[G,2]1E,-[A,2E,2]1C[B,2G,2]1E,- [E,2-A,]C
+%[B,2G,2E,]E,[CA,]G,[A,F,][G,E,] [D,B,,][F,A,,]
+[G,2]1[E,3]1[A,2]1C[B,2G,2]1[E,4]1 A,C
+[B,2G,2]1E,[CA,]G,[A,F,][G,E,] [D,B,,][F,A,,]
+
+[G,G,,][B,E,-][A,2E,2]1CG,[B,E,-] [A,2E,]C
+G,[B,E,][A,F,][G,E,]B,,B,,, E,,/2B,,/2E,/2F,/2
+
+%[G,2]1E,-[A,2E,2]1C[B,2G,2]1E,- [E,2-A,]C
+%[B,2G,2E,]E,[CA,]G,[A,F,][G,E,] [D,B,,][F,A,,]
+[G,2]1[E,3]1[A,2]1C[B,2G,2]1[E,4]1 A,C
+[B,2G,2]1E,[CA,]G,[A,F,][G,E,] [D,B,,][F,A,,]
+
+[G,G,,][B,E,-][A,2E,2]1CG,[B,E,-] [A,2E,]C
+G,[B,E,][A,F,][G,E,]B,,B,,, E,,/2B,,/2E,/2F,/2
+%-------------------
+%  Variation 2
+%-------------------
+<L:/8>
+G,B,E,B,D,B,B,,B,E,B,G,B, D,B,B,,B,
+E,B,G,B,D,B,B,,B,E,G,C,F, B,,B,A,B,
+
+G,B,E,B,D,F,B,,D,G,,B,,E,,E, D,F,B,,D,
+G,,B,,E,,E,D,F,B,,D,E,C,F,F,, B,,F,B,A,
+
+
+G,EDECEA,EG,EE,E CEA,E
+G,EE,EA,EG,EF,DE,B, B,,B,A,,A,
+
+G,,E,/2D,/2E,/4D,/4E,/4D,/4E,/4D,/4E/2A,,E,/2D,/2E,/4D,/4E,/4D,/4E,/4D,/4E/2
+G,,E,/2D,/2E,/4D,/4E,/4D,/4E,/4D,/4E/2 A,,E,/2D,/2E,/4D,/4E,/4D,/4E,/4D,/4E/2
+G,,E,/2D,/2E,/4D,/4E,/4D,/4E,/4D,/4E/2F,,D,E,A,,B,,2B,,,2 E,,G,,B,,E,
+
+G,EDECEA,EG,EE,E CEA,E
+G,EE,EA,EG,EF,DE,B, B,,B,A,,A,
+
+G,,E,/2D,/2E,/4D,/4E,/4D,/4E,/4D,/4E/2A,,E,/2D,/2E,/4D,/4E,/4D,/4E,/4D,/4E/2
+G,,E,/2D,/2E,/4D,/4E,/4D,/4E,/4D,/4E/2 A,,E,/2D,/2E,/4D,/4E,/4D,/4E,/4D,/4E/2
+G,,E,/2D,/2E,/4D,/4E,/4D,/4E,/4D,/4E/2F,,D,E,A,,B,,2B,,,2 E,,G,,B,,E,
+%-------------------
+%  Variation 3
+%-------------------
+<L:/4><Q:145>
+[E,2]1G,[B,2]1D,[E,2]1G, [B,2]1D,
+[E,,2]1E,-E,D,E,F, [B,,2]1D,
+
+[E,2]1G,[B,2]1D,[E,2]1G, [B,2]1D,
+[E,,2]1E,-E,D,E,F, [B,,2]1D,
+
+[E,2]1G,[A,2]1C[E2]1G, [A,2]1C
+%[E2-]1G,[F,2E]DEA, B,A,
+[E3]1G,[F,2]1DEA, B,A,
+
+G,E,[A,,2]1F,[B,,2]1G, [C,2]1A,
+B,,D,[G,,2E,]G,A,,B,, E,,2
+
+[E,2]1G,[A,2]1C[E2]1G, [A,2]1C
+%[E2-]1G,[F,2E]DEA, B,A,
+[E3]1G,[F,2]1DEA, B,A,
+
+G,E,[A,,2]1F,[B,,2]1G, [C,2]1A,
+B,,D,[G,,2E,]G,A,,B,, E,,(3E,B,A,/2
+%-------------------
+%  Variation 4
+%-------------------
+<L:/8>
+(3G,A,B,(3E,F,G,(3D,E,F,(3B,,C,D,(3G,,A,,B,,(3E,,B,,E, (3D,E,F,(3B,,F,B,
+(3G,A,B,(3C,D,E,(3F,,G,,^A,,(3B,,C,D,(3E,F,G,(3C,F,E, (3D,E,F,(3B,,B,A,
+
+(3G,A,B,(3E,F,G,(3D,E,F,(3B,,C,D,(3G,,A,,B,,(3E,,B,,E, (3D,E,F,(3B,,F,B,
+(3G,A,B,(3C,D,E,(3F,,G,,^A,,(3B,,C,D,(3E,F,G,(3C,F,E, (3D,E,F,(3B,,B,A,
+
+
+(3G,A,B,(3E,F,G,(3A,B,C(3F,G,A,(3G,A,B,(3E,F,G, (3A,B,C(3F,G,A,
+(3G,A,B,(3E,F,G,(3A,G,A,(3F,E,F,(3D,C,B,,(3E,D,E, (3B,,C,B,,(3A,,B,,A,,
+
+(3G,,B,,G,,(3E,,G,,E,,(3A,,C,A,,(3F,,A,,F,,(3B,,D,B,,(3G,,B,,G,, (3C,E,C,(3F,A,F,
+(3D,F,D,(3B,,D,B,,E,B,,C,A,,B,,2B,,,2 E,,B,,E,F,
+
+(3G,A,B,(3E,F,G,(3A,B,C(3F,G,A,(3G,A,B,(3E,F,G, (3A,B,C(3F,G,A,
+(3G,A,B,(3E,F,G,(3A,G,A,(3F,E,F,(3D,C,B,,(3E,D,E, (3B,,C,B,,(3A,,B,,A,,
+
+(3G,,B,,G,,(3E,,G,,E,,(3A,,C,A,,(3F,,A,,F,,(3B,,D,B,,(3G,,B,,G,, (3C,E,C,(3F,A,F,
+(3D,F,D,(3B,,D,B,,E,B,,C,A,,B,,2B,,,2 E,,B,,E,F,
+%-------------------
+%  Variation 5
+%-------------------
+<L:/16><Q:160>
+[G,8E,8][F,8D,8]E,,F,,G,,A,,B,,C,D,E, B,,C,D,E,F,G,A,B,
+G,4E,4D,4G,4E,4F,4 B,,2F,2B,2A,2
+
+[G,8E,8][F,8D,8]E,,F,,G,,A,,B,,C,D,E, B,,C,D,E,F,G,A,B,
+G,4E,4D,4G,4E,4F,4 B,,2F,2B,2A,2
+
+
+[B,8G,8][C8A,8][B,8G,8] [C8A,8]
+[B,8G,8]F,4B,,4E,4E,,4 B,,2D,2F,2A,,2
+
+[G,,8]4E,4[A,,8]4F,4[B,,8]4G,4 [C,8]4E,4
+[G,,8]4E,4[A,,8]4C,4[B,,8]4B,,,4 E,,2F,,G,,A,,B,,C,D,
+
+[E,8]4G,,4A,,B,,C,D,E,F,G,A,G,4E,4 A,,B,,C,D,E,F,G,A,
+G,4E,4A,4G,4F,4E,4 B,,2D,2F,2A,,2
+
+[G,,8]4E,4[A,,8]4F,4[B,,8]4G,4 [C,8]4E,4
+<Q:60>[G,,8]1<Q:140>z3E,4[A,,8]4C,4<Q:110>[B,,8]4<Q:80>B,,4 <Q:30>[E,8E,,8]
+}

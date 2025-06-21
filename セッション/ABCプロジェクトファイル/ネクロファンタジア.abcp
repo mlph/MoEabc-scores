@@ -1,0 +1,92 @@
+[Public]
+Solo=255
+[Tab1]
+TabName=A.Piano
+Program=300
+Session=1
+FilePath=..\ネクロファンタジア\ネクロファンタジア1of2A.Piano.abc
+[Tab2]
+TabName=B.Piano
+Program=300
+Session=1
+FilePath=..\ネクロファンタジア\ネクロファンタジア2of2B.Piano.abc
+[Tab3]
+TabName=パート #3
+Program=0
+Session=0
+FilePath=
+[Tab4]
+TabName=パート #4
+Program=0
+Session=0
+FilePath=
+[Tab5]
+TabName=パート #5
+Program=0
+Session=0
+FilePath=
+[Tab6]
+TabName=パート #6
+Program=0
+Session=0
+FilePath=
+[Tab7]
+TabName=パート #7
+Program=0
+Session=0
+FilePath=
+[Tab8]
+TabName=パート #8
+Program=0
+Session=0
+FilePath=
+[Tab9]
+TabName=パート #9
+Program=0
+Session=0
+FilePath=
+[Tab10]
+TabName=パート #10
+Program=0
+Session=0
+FilePath=
+[Tab11]
+TabName=パート #11
+Program=0
+Session=0
+FilePath=
+[Tab12]
+TabName=パート #12
+Program=0
+Session=0
+FilePath=
+[Tab13]
+TabName=パート #13
+Program=0
+Session=0
+FilePath=
+[Tab14]
+TabName=パート #14
+Program=0
+Session=0
+FilePath=
+[Tab15]
+TabName=パート #15
+Program=0
+Session=0
+FilePath=
+[Tab16]
+TabName=パート #16
+Program=0
+Session=0
+FilePath=
+[Tab17]
+TabName=パート #17
+Program=0
+Session=0
+FilePath=
+[Tab18]
+TabName=パート #18
+Program=0
+Session=0
+FilePath=
